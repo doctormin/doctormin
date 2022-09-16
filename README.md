@@ -1,6 +1,8 @@
 <!--START_SECTION:waka-->
 
 ```text
+From: 08 September 2022 - To: 15 September 2022
+
 Total Time: 1 hr 33 mins
 
 Go           1 hr 1 min      ████████████████▒░░░░░░░░   65.72 %
