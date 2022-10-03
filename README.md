@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **I'm a Night 🦉** 
 
@@ -35,5 +35,5 @@ Mac                      10 hrs 54 mins      ███████████�
 ```
 
 
- Last Updated on 02/10/2022 18:54:57 UTC
+ Last Updated on 03/10/2022 19:00:33 UTC
 <!--END_SECTION:waka-->
