@@ -20,18 +20,16 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               42 mins             ██████████████████████░░░   88.07% 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.23% 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.7%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      48 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 22/01/2023 18:41:02 UTC
+ Last Updated on 23/01/2023 18:42:09 UTC
 <!--END_SECTION:waka-->
