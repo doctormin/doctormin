@@ -25,5 +25,3 @@ Mac                      8 hrs 27 mins       ███████████�
 
  Last Updated on 16/01/2024 18:38:40 UTC
 <!--END_SECTION:waka-->
-
-[![Yimin's GitHub stats](https://github-readme-stats.vercel.app/api?username=doctormin)](https://github.com/anuraghazra/github-readme-stats)
