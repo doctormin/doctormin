@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-657%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-657%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -9,21 +9,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 9 mins        ███████████░░░░░░░░░░░░░░   43.04 % 
-SSH Config               38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-reStructuredText         36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Markdown                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.57 % 
+reStructuredText         1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Swift                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+SSH Config               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 52 mins       ████████████████████████░   97.04 % 
-Obsidian                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+VS Code                  6 hrs 27 mins       ████████████████████████░   97.25 % 
+Obsidian                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 💻 Operating System: 
-Mac                      4 hrs 48 mins       ████████████████████████░   95.87 % 
-Windows                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Mac                      6 hrs 25 mins       ████████████████████████░   96.88 % 
+Windows                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
- Last Updated on 16/03/2026 19:33:49 UTC
+ Last Updated on 17/03/2026 19:34:11 UTC
 <!--END_SECTION:waka-->
