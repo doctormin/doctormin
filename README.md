@@ -9,22 +9,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.62 % 
-Python                   1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-JSON                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Bash                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-TypeScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Markdown                 5 mins              █████████████████░░░░░░░░   67.41 % 
+JSON                     2 mins              ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🔥 Editors: 
-Unknown Editor           6 hrs 53 mins       ██████████████████████░░░   88.26 % 
-VS Code                  51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Obsidian                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+VS Code                  5 mins              ██████████████░░░░░░░░░░░   57.08 % 
+Obsidian                 3 mins              ███████████░░░░░░░░░░░░░░   42.92 % 
 
 💻 Operating System: 
-Linux                    7 hrs 45 mins       █████████████████████████   99.19 % 
-Mac                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Linux                    5 mins              ██████████████░░░░░░░░░░░   57.08 % 
+Mac                      3 mins              ███████████░░░░░░░░░░░░░░   42.92 % 
 ```
 
 
- Last Updated on 05/04/2026 19:10:23 UTC
+ Last Updated on 06/04/2026 19:35:53 UTC
 <!--END_SECTION:waka-->
