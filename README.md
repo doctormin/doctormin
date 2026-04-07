@@ -9,19 +9,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 mins              █████████████████░░░░░░░░   67.41 % 
-JSON                     2 mins              ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Markdown                 3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  5 mins              ██████████████░░░░░░░░░░░   57.08 % 
-Obsidian                 3 mins              ███████████░░░░░░░░░░░░░░   42.92 % 
+Obsidian                 3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 mins              ██████████████░░░░░░░░░░░   57.08 % 
-Mac                      3 mins              ███████████░░░░░░░░░░░░░░   42.92 % 
+Mac                      3 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/04/2026 19:35:53 UTC
+ Last Updated on 07/04/2026 19:36:15 UTC
 <!--END_SECTION:waka-->
