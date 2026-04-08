@@ -9,15 +9,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 mins              █████████████████████████   100.00 % 
+TeX                      1 hr 4 mins         ████████████████████░░░░░   78.46 % 
+Markdown                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Obsidian                 3 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 18 mins        ████████████████████████░   95.25 % 
+Obsidian                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+Linux                    1 hr 18 mins        ████████████████████████░   95.25 % 
+Mac                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 ```
 
 
- Last Updated on 07/04/2026 19:36:15 UTC
+ Last Updated on 08/04/2026 19:46:53 UTC
 <!--END_SECTION:waka-->
