@@ -9,20 +9,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   33 mins             ████████████████░░░░░░░░░   64.23 % 
-Other                    8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-TeX                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Markdown                 6 mins              ████████████████████░░░░░   79.80 % 
+TeX                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Unknown Editor           45 mins             ██████████████████████░░░   88.49 % 
-VS Code                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+VS Code                  5 mins              ██████████████████░░░░░░░   71.20 % 
+Unknown Editor           2 mins              ███████░░░░░░░░░░░░░░░░░░   28.80 % 
 
 💻 Operating System: 
-Linux                    51 mins             █████████████████████████   100.00 % 
+Linux                    8 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/04/2026 19:24:17 UTC
+ Last Updated on 20/04/2026 19:39:54 UTC
 <!--END_SECTION:waka-->
