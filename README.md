@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=doctormin&style=flat&label=Profile+Views&color=blue)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-711%20hrs%2028%20mins-blue?style=flat)
 
