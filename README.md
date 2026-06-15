@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=doctormin&style=flat&label=Profile+Views&color=blue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-731%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-744%20hrs%2049%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,24 +9,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 15 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   29.64 % 
-Python                   14 hrs 31 mins      ███████░░░░░░░░░░░░░░░░░░   27.58 % 
-Other                    10 hrs 34 mins      █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-C                        2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Astro                    1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Markdown                 14 hrs 35 mins      ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+Python                   14 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+Other                    11 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+C                        1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Astro                    1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔥 Editors: 
-Claude Code              49 hrs 54 mins      ████████████████████████░   94.72 % 
-Exec Wakatime            2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Cursor                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Manual Test              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Claude Code              48 hrs 33 mins      ████████████████████████░   95.77 % 
+Exec Wakatime            2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Manual Test              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Manual-Test              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Manual                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    30 hrs 39 mins      ███████████████░░░░░░░░░░   58.17 % 
-Mac                      22 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   41.83 % 
+Linux                    29 hrs 19 mins      ██████████████░░░░░░░░░░░   57.84 % 
+Mac                      21 hrs 22 mins      ███████████░░░░░░░░░░░░░░   42.16 % 
 ```
 
 
- Last Updated on 14/06/2026 20:06:34 UTC
+ Last Updated on 15/06/2026 21:33:34 UTC
 <!--END_SECTION:waka-->
