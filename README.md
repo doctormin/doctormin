@@ -9,21 +9,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-Markdown                 6 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-Other                    5 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Text                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Astro                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Python                   4 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+Markdown                 3 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+Other                    2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Text                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+XML                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 21 mins      ████████████████████████░   97.85 % 
-Exec Wakatime            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Claude Code              14 hrs 23 mins      █████████████████████████   99.85 % 
+Exec Wakatime            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Mac                      14 hrs 2 mins       ██████████████░░░░░░░░░░░   56.39 % 
-Linux                    10 hrs 51 mins      ███████████░░░░░░░░░░░░░░   43.61 % 
+Mac                      11 hrs 4 mins       ███████████████████░░░░░░   76.93 % 
+Linux                    3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
 ```
 
 
- Last Updated on 20/06/2026 20:04:21 UTC
+ Last Updated on 21/06/2026 20:12:46 UTC
 <!--END_SECTION:waka-->
