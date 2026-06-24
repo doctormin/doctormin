@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=doctormin&style=flat&label=Profile+Views&color=blue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-763%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-767%20hrs%2014%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,21 +9,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.36 % 
-Python                   4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
-Other                    2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-C                        58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Text                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Markdown                 11 hrs 30 mins      █████████░░░░░░░░░░░░░░░░   37.39 % 
+Python                   8 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+Other                    3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+C                        1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+C++                      1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 21 mins      █████████████████████████   99.89 % 
-Exec Wakatime            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Claude Code              30 hrs 45 mins      █████████████████████████   99.93 % 
+Exec Wakatime            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      17 hrs 5 mins       ██████████████████████░░░   88.21 % 
-Linux                    2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Mac                      28 hrs 25 mins      ███████████████████████░░   92.32 % 
+Linux                    2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 ```
 
 
- Last Updated on 23/06/2026 20:33:59 UTC
+ Last Updated on 24/06/2026 20:18:11 UTC
 <!--END_SECTION:waka-->
