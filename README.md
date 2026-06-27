@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=doctormin&style=flat&label=Profile+Views&color=blue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-782%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-787%20hrs%2012%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,20 +9,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 26 mins      ███████████░░░░░░░░░░░░░░   42.97 % 
-Python                   9 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-Other                    2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Bash                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-C                        1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Markdown                 15 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   37.89 % 
+Python                   12 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   30.07 % 
+TeX                      3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Other                    2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Bash                     2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 🔥 Editors: 
-Claude Code              31 hrs 17 mins      █████████████████████████   100.00 % 
+Claude Code              41 hrs              █████████████████████████   99.88 % 
+Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Mac                      27 hrs 23 mins      ██████████████████████░░░   87.53 % 
-Linux                    3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Mac                      36 hrs 25 mins      ██████████████████████░░░   88.73 % 
+Linux                    4 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
 ```
 
 
- Last Updated on 26/06/2026 20:18:02 UTC
+ Last Updated on 27/06/2026 19:53:28 UTC
 <!--END_SECTION:waka-->
