@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=doctormin&style=flat&label=Profile+Views&color=blue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-803%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-806%20hrs%2039%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,21 +9,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 14 hrs 51 mins      █████████░░░░░░░░░░░░░░░░   34.54 % 
-Python                   11 hrs 28 mins      ███████░░░░░░░░░░░░░░░░░░   26.68 % 
-TeX                      5 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Other                    3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Bash                     1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Markdown                 13 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   32.81 % 
+Python                   10 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
+TeX                      6 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Other                    3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Bash                     1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 🔥 Editors: 
-Claude Code              42 hrs 58 mins      █████████████████████████   99.89 % 
-Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Claude Code              39 hrs 49 mins      ████████████████████████░   96.89 % 
+VS Code                  59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Codex CLI                17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Mac                      38 hrs 9 mins       ██████████████████████░░░   88.69 % 
-Linux                    4 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Mac                      36 hrs 17 mins      ██████████████████████░░░   88.32 % 
+Linux                    4 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
 ```
 
 
- Last Updated on 29/06/2026 20:25:51 UTC
+ Last Updated on 30/06/2026 20:30:09 UTC
 <!--END_SECTION:waka-->
