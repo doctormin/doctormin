@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=doctormin&style=flat&label=Profile+Views&color=blue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-812%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-815%20hrs%2025%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,22 +9,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      9 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   28.98 % 
-Markdown                 8 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-Python                   7 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-Other                    2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Bash                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+TeX                      17 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   39.68 % 
+Python                   13 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Markdown                 7 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Other                    2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+BibTeX                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-Claude Code              25 hrs 37 mins      ████████████████████░░░░░   78.53 % 
-VS Code                  6 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-Codex CLI                20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Claude Code              21 hrs 52 mins      █████████████░░░░░░░░░░░░   50.66 % 
+VS Code                  20 hrs 57 mins      ████████████░░░░░░░░░░░░░   48.55 % 
+Codex CLI                20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 💻 Operating System: 
-Mac                      28 hrs 19 mins      ██████████████████████░░░   86.84 % 
-Linux                    4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Mac                      42 hrs 8 mins       ████████████████████████░   97.58 % 
+Linux                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 ```
 
 
- Last Updated on 02/07/2026 20:03:26 UTC
+ Last Updated on 03/07/2026 19:58:08 UTC
 <!--END_SECTION:waka-->
