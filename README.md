@@ -9,22 +9,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-Markdown                 1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-YAML                     43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-TeX                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Python                   5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex CLI                2 hrs 46 mins       ███████████████░░░░░░░░░░   60.20 % 
-Claude Code              56 mins             █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-VS Code                  53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+VS Code                  6 mins              ████████████████████████░   94.48 % 
+Codex CLI                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 💻 Operating System: 
-Mac                      4 hrs 30 mins       ████████████████████████░   97.78 % 
-Linux                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Linux                    5 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/07/2026 19:42:23 UTC
+ Last Updated on 12/07/2026 19:40:17 UTC
 <!--END_SECTION:waka-->
