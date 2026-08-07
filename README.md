@@ -1,10 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=doctormin&style=flat&label=Profile+Views&color=blue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-914%20hrs%2038%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-294%20hrs%2042%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -27,5 +23,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 05/08/2026 20:09:15 UTC
+ Last Updated on 07/08/2026 00:24:36 UTC
 <!--END_SECTION:waka-->
