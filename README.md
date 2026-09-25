@@ -11,46 +11,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   33 mins             ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-JSON                     32 mins             ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-Markdown                 31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-Other                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-YAML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+JSON                     32 mins             ██████████░░░░░░░░░░░░░░░   40.95 % 
+Other                    20 mins             ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+Markdown                 14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+YAML                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-Codex CLI                1 hr 33 mins        ██████████████████░░░░░░░   71.63 % 
-Codex Vscode             37 mins             ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+Codex CLI                1 hr 18 mins        █████████████████████████   98.49 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 💻 Operating System: 
-Linux                    2 hrs 10 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 10 mins (100.0%)
+⏱ AI Coding Time: 1 hr 20 mins (100.0%)
 
-✍️ 554 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 185 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 864,059 Input Tokens, 217,127 Output Tokens
+🔤 548,865 Input Tokens, 153,688 Output Tokens
 
-💵 $82.77 Estimated AI Cost This Week
+💵 $63.88 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 59 AI Prompts
+🧠 25 AI Sessions, 38 AI Prompts
 
-GPT                      369 lines           ████████████████░░░░░░░░░   65.89 % 
-Opencode-Cli             148 lines           ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-Deepseek                 33 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Kimi                     10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Opencode-Cli             148 lines           ███████████████████░░░░░░   77.49 % 
+Deepseek                 33 lines            ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Kimi                     10 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,015 characters per prompt
+📄 Detailed Prompter — average 1,031 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/09/2026 21:42:29 UTC
+ Last Updated on 25/09/2026 21:45:37 UTC
 <!--END_SECTION:waka-->
