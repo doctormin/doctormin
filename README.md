@@ -1,6 +1,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=doctormin&style=flat&label=Profile+Views&color=blue)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C243%20hrs%2053%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-633%20hrs%2012%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -49,5 +53,5 @@ K                        0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 03/11/2026 23:35:01 UTC
+ Last Updated on 04/11/2026 23:52:07 UTC
 <!--END_SECTION:waka-->
