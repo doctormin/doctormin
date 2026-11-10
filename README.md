@@ -1,9 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=doctormin&style=flat&label=Profile+Views&color=blue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C277%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C278%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-671%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-673%20hrs%2030%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -11,46 +11,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   38 hrs 19 mins      ████████████████░░░░░░░░░   62.07 % 
-Markdown                 7 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Other                    5 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-JSON                     5 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-JavaScript               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Python                   24 hrs 58 mins      ███████████████░░░░░░░░░░   58.35 % 
+Other                    5 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+JSON                     4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Markdown                 3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+JavaScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🔥 Editors: 
-Codex Vscode             43 hrs              █████████████████░░░░░░░░   69.68 % 
-Codex CLI                18 hrs              ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-Codex Exec               42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Codex Vscode             24 hrs 6 mins       ██████████████░░░░░░░░░░░   56.32 % 
+Codex CLI                17 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   42.00 % 
+Codex Exec               42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 💻 Operating System: 
-Linux                    59 hrs 20 mins      ████████████████████████░   96.13 % 
-Mac                      2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Linux                    40 hrs 37 mins      ████████████████████████░   94.92 % 
+Mac                      2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 61 hrs 43 mins (100.0%)
+⏱ AI Coding Time: 42 hrs 47 mins (100.0%)
 
-✍️ 66,786 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 47,056 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 81,697,862 Input Tokens, 19,616,877 Output Tokens
+🔤 62,010,036 Input Tokens, 14,100,159 Output Tokens
 
-💵 $16013.77 Estimated AI Cost This Week
+💵 $13487.52 Estimated AI Cost This Week
 
-🧠 131 AI Sessions, 964 AI Prompts
+🧠 103 AI Sessions, 950 AI Prompts
 
-GPT                      55,725 lines        █████████████████████░░░░   83.40 % 
-K                        11,089 lines        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+GPT                      35,978 lines        ███████████████████░░░░░░   76.44 % 
+K                        11,089 lines        ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
 Kimi-Code                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,091 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📄 Detailed Prompter — average 1,048 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/11/2026 01:43:13 UTC
+ Last Updated on 10/11/2026 23:38:36 UTC
 <!--END_SECTION:waka-->
