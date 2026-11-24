@@ -11,48 +11,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.85 % 
-Python                   1 hr 54 mins        ████████░░░░░░░░░░░░░░░░░   33.68 % 
-Markdown                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-TSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Python                   1 hr 33 mins        ███████████░░░░░░░░░░░░░░   44.44 % 
+Markdown                 51 mins             ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+Other                    48 mins             ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+TSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 34 mins       ████████████████░░░░░░░░░   63.31 % 
-Codex CLI                57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Codex Exec               57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Antigravity Desktop      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Codex Vscode             3 hrs 10 mins       ████████████████████░░░░░   81.99 % 
+Codex Exec               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Codex CLI                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Antigravity Desktop      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 💻 Operating System: 
-Linux                    3 hrs 1 min         █████████████░░░░░░░░░░░░   53.63 % 
-Mac                      2 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.37 % 
+Mac                      2 hrs 24 mins       █████████████████░░░░░░░░   68.22 % 
+Linux                    1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   31.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 39 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 31 mins (100.0%)
 
-✍️ 2,710 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,457 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,168,408 Input Tokens, 665,161 Output Tokens
+🔤 6,135,737 Input Tokens, 464,652 Output Tokens
 
-💵 $1347.24 Estimated AI Cost This Week
+💵 $1263.24 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 56 AI Prompts
+🧠 18 AI Sessions, 31 AI Prompts
 
-GPT                      1,997 lines         ██████████████░░░░░░░░░░░   55.03 % 
-K                        1,173 lines         ████████░░░░░░░░░░░░░░░░░   32.32 % 
-Codex-Vscode             459 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+GPT                      2,727 lines         ████████████████████░░░░░   80.78 % 
+Codex-Vscode             434 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+K                        215 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,907 characters per prompt
+📄 Detailed Prompter — average 1,338 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/11/2026 23:45:01 UTC
+ Last Updated on 24/11/2026 04:01:01 UTC
 <!--END_SECTION:waka-->
