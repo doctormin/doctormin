@@ -1,9 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=doctormin&style=flat&label=Profile+Views&color=blue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C289%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C289%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-694%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-695%20hrs%201%20min-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -11,48 +11,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 33 mins        ███████████░░░░░░░░░░░░░░   44.44 % 
-Markdown                 51 mins             ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-Other                    48 mins             ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-TSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Python                   9 hrs 8 mins        ████████████████░░░░░░░░░   64.83 % 
+Other                    2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Markdown                 1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 10 mins       ████████████████████░░░░░   81.99 % 
-Codex Exec               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Codex CLI                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Antigravity Desktop      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Codex Vscode             10 hrs 58 mins      ███████████████████░░░░░░   75.96 % 
+Antigravity Desktop      1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Codex Exec               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Codex CLI                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 💻 Operating System: 
-Mac                      2 hrs 24 mins       █████████████████░░░░░░░░   68.22 % 
-Linux                    1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   31.78 % 
+Linux                    9 hrs 42 mins       █████████████████░░░░░░░░   68.74 % 
+Mac                      4 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   31.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 31 mins (100.0%)
+⏱ AI Coding Time: 14 hrs 6 mins (100.0%)
 
-✍️ 2,457 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 8,086 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,135,737 Input Tokens, 464,652 Output Tokens
+🔤 10,676,709 Input Tokens, 3,008,182 Output Tokens
 
-💵 $1263.24 Estimated AI Cost This Week
+💵 $1351.92 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 31 AI Prompts
+🧠 103 AI Sessions, 128 AI Prompts
 
-GPT                      2,727 lines         ████████████████████░░░░░   80.78 % 
-Codex-Vscode             434 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-K                        215 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+GPT                      8,373 lines         ███████████████████████░░   92.81 % 
+Codex-Vscode             434 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+K                        215 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,338 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 3,535 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/11/2026 04:01:01 UTC
+ Last Updated on 25/11/2026 02:43:30 UTC
 <!--END_SECTION:waka-->
